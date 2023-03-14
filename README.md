@@ -1,6 +1,6 @@
 # personal_expenses
 
-A new Flutter project.
+Um projeto de despesas pessoais criado acompanhando o curso de Flutter da Coder
 
 ## Getting Started
 
